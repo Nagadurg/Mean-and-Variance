@@ -81,8 +81,6 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 # Output : 
 
 <img width="277" alt="image" src="https://github.com/Nagadurg/Mean-and-Variance/assets/94185707/d0b8d231-bfb1-4e60-acf6-fb78bad0a595">
-
-
 <img width="395" alt="image" src="https://github.com/Nagadurg/Mean-and-Variance/assets/94185707/fc78a5af-2955-4f2e-8d30-8605197b376b">
 
 
